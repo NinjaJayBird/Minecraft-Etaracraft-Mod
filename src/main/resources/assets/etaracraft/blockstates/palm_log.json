@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "etaracraft:block/palm_log" },
+    "axis=x": { "model": "etaracraft:block/palm_log", "x": 90, "y": 90 },
+    "axis=z": { "model": "etaracraft:block/palm_log", "x": 90 }
+  }
+}

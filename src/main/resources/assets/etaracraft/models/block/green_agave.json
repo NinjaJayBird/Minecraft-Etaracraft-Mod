@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "etaracraft:blocks/green_agave"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "etaracraft:palm_log"
+    }
+  ],
+  "result": {
+    "item": "etaracraft:palm_planks",
+    "count": 4
+  }
+}

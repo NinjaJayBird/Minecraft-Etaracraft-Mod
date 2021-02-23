@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "etaracraft",
+  "version": "${version}",
+
+  "name": "Etaracraft",
+  "description": "A mod that add things people have made/suggested.",
+  "authors": [
+    "Ninja JayBird",
+    "Shroomer"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/etaracraft/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.ninjajaybird.etaracraft.Etaracraft"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

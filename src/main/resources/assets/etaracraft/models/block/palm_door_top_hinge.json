@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "etaracraft:blocks/palm_door_bottom",
+    "top": "etaracraft:blocks/palm_door_top"
+  }
+}
